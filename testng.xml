@@ -5,7 +5,7 @@
 <listener class-name="com.inetBanking.utilities.Reporting" />
 </listeners>
   <test name="BankingApp Test">
-  <parameter name="browser" value="chrome"/>
+  <parameter name="browser" value="Firefox"/>
     <classes>
       <class name="com.inetBanking.testCases.TC_LoginPage_001"/>
      
